@@ -74,12 +74,8 @@ La aplicacion fue desarrollada en app inventor, al ejecutarla solicita los permi
 
 Hice un par de pruebas extrayendo otros valores que hacen mas facil el manejo del auto, que pronto subire
 
-1. Desarrollar mejor la interfaz del auto en processing
+1. Aprovechar el control de la velocidad en processing
 
-2. Aprovechar el control de la velocidad en processing
-
-3. Cambiar de placa a una con wifi para eliminar del mapa al bluetooth
-
-4. Mejorar el Codigo (probablemente pasar a p5.js o algo similar)
+2. Mejorar el Codigo (probablemente pasar a p5.js o algo similar)
 
 y por supuesto mejorar y agregar mas documentacion.
