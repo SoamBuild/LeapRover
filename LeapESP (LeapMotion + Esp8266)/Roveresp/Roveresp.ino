@@ -13,10 +13,10 @@
 #include <ESP8266mDNS.h>
 
 //Configurar Ip estatica y señal wifi
-const char* ssid = "ssid"; 
-const char* password = "pass";
-IPAddress ip(192, 168, 0, 25);
-IPAddress gateway(192, 168, 0, 1);
+const char* ssid = ""; 
+const char* password = "";
+IPAddress ip(192, 168, 3, 25);
+IPAddress gateway(192, 168, 3, 1);
 IPAddress subnet(255, 255, 255, 0);
 
 //ENA&ENB
